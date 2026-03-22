@@ -52,6 +52,15 @@ switch(myBirthMonth){
     break;
   case "October":
     console.log("You said October and you are wrong")
+    break;
+  case "November":
+    console.log("You said November and you are wrong")
+    break;
+  case "December":
+    console.log("You said December and you are wrong")
+    break;
+  default:
+    console.log("Enter a valid month")
     
 
     
